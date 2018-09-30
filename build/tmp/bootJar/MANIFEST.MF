@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Start-Class: ca.mcgill.ecse321.eventregistration.EventregistrationAppl
+ ication
+Main-Class: org.springframework.boot.loader.JarLauncher
+
